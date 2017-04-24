@@ -1,8 +1,8 @@
 PROJECT(Exercise02)
 
 set(SOURCE
-  #main.cpp
-  solution.cpp
+  main.cpp
+  #solution.cpp
 )
 
 set(HEADERS
